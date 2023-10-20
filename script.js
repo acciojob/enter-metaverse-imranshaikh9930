@@ -8,6 +8,6 @@ enterBtn.addEventListener('click',()=>{
 	// para.innerText = "";
 
 	para.innerText = "Entered Metaverse";
-	para.style.fontSize = "15px";
+	para.style.fontSize = "50px";
 	
 })
